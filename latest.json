@@ -1,8 +1,8 @@
 {
-  "versionCode": 14,
-  "versionName": "0.9.2",
-  "notes": "Isolate points on the map by tapping them, and filter by description, point range or layer - the layer being the feature code at the front of the description. Linework can be closed into a figure and puts a point at a corner that needs one. Stake line picks two points off the drawing and opens stakeout on them.",
-  "androidUrl": "https://github.com/Medoh97/SurvDroid-releases/releases/download/v0.9.2/SurvDroid-0.9.2-phone.apk",
-  "windowsUrl": "https://github.com/Medoh97/SurvDroid-releases/releases/download/v0.9.2/SurvDroid-0.9.2-windows.zip",
+  "versionCode": 15,
+  "versionName": "0.9.3",
+  "notes": "Auto by Interval stores continuous topo every so many metres or seconds and counts the epochs it had to refuse. Elevation Difference reads cut and fill against a design height. Delete Job clears out old jobs and refuses the one that is open.",
+  "androidUrl": "https://github.com/Medoh97/SurvDroid-releases/releases/download/v0.9.3/SurvDroid-0.9.3-phone.apk",
+  "windowsUrl": "https://github.com/Medoh97/SurvDroid-releases/releases/download/v0.9.3/SurvDroid-0.9.3-windows.zip",
   "mandatory": false
 }
