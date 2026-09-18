@@ -1,0 +1,4 @@
+# Release artifacts live on the releases page, not in the repo. This feed only
+# needs latest.json; keeping 60 MB builds in git history bloats every clone.
+*.apk
+*.zip
