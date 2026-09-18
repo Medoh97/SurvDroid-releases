@@ -1,8 +1,8 @@
 {
-  "versionCode": 11,
-  "versionName": "0.8.1",
-  "notes": "The job that was open is the job that opens - the collector no longer comes back to an empty screen after the tablet locks or the app is killed. Staking a point from the map carries that point into stakeout instead of asking for the number again.",
-  "androidUrl": "https://github.com/Medoh97/SurvDroid-releases/releases/download/v0.8.1/SurvDroid-0.8.1-phone.apk",
-  "windowsUrl": "",
+  "versionCode": 12,
+  "versionName": "0.9.0",
+  "notes": "The Windows build for the RT4 is here, running the same screens as the phone from the same shared code - a command added to the menu appears on both. On Windows a receiver is the COM port a Bluetooth pairing becomes, and jobs live in your home folder.",
+  "androidUrl": "https://github.com/Medoh97/SurvDroid-releases/releases/download/v0.9.0/SurvDroid-0.9.0-phone.apk",
+  "windowsUrl": "https://github.com/Medoh97/SurvDroid-releases/releases/download/v0.9.0/SurvDroid-0.9.0-windows.zip",
   "mandatory": false
 }
