@@ -1,8 +1,8 @@
 {
-  "versionCode": 3,
-  "versionName": "0.2.1",
-  "notes": "Menu shows full command names and stays readable in dark mode. Map reachable from the job bar. NAD83 MTM Zone 1 is the default grid.",
-  "androidUrl": "https://github.com/Medoh97/SurvDroid-releases/releases/download/v0.2.1/SurvDroid-0.2.1-phone.apk",
+  "versionCode": 4,
+  "versionName": "0.3.0",
+  "notes": "NL Imagery on the map with offline tile packs. Menu shows full command names and stays readable in dark mode. Map reachable from the job bar.",
+  "androidUrl": "https://github.com/Medoh97/SurvDroid-releases/releases/download/v0.3.0/SurvDroid-0.3.0-phone.apk",
   "windowsUrl": "",
   "mandatory": false
 }
