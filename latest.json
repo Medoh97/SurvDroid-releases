@@ -1,8 +1,8 @@
 {
-  "versionCode": 8,
-  "versionName": "0.6.0",
-  "notes": "Base setup with averaged position and BASEn naming. NL Geodetic Network monuments bundled for offline control lookup and localization, with a check shot into a second monument. Ships the CGVD28 geoid the monuments are published on.",
-  "androidUrl": "https://github.com/Medoh97/SurvDroid-releases/releases/download/v0.6.0/SurvDroid-0.6.0-phone.apk",
+  "versionCode": 9,
+  "versionName": "0.7.0",
+  "notes": "COGO on the map: inverse, measure, offset, store point, linework, stake and delete, all by picking off the drawing. Picks snap to stored points.",
+  "androidUrl": "https://github.com/Medoh97/SurvDroid-releases/releases/download/v0.7.0/SurvDroid-0.7.0-phone.apk",
   "windowsUrl": "",
   "mandatory": false
 }
