@@ -1,8 +1,8 @@
 {
-  "versionCode": 7,
-  "versionName": "0.5.0",
-  "notes": "All ten COGO commands, including an RPN calculator with the HP 35s stack, point projection, station store, transformation and point average.",
-  "androidUrl": "https://github.com/Medoh97/SurvDroid-releases/releases/download/v0.5.0/SurvDroid-0.5.0-phone.apk",
+  "versionCode": 8,
+  "versionName": "0.6.0",
+  "notes": "Base setup with averaged position and BASEn naming. NL Geodetic Network monuments bundled for offline control lookup and localization, with a check shot into a second monument. Ships the CGVD28 geoid the monuments are published on.",
+  "androidUrl": "https://github.com/Medoh97/SurvDroid-releases/releases/download/v0.6.0/SurvDroid-0.6.0-phone.apk",
   "windowsUrl": "",
   "mandatory": false
 }
