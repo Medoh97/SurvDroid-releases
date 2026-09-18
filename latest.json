@@ -1,8 +1,8 @@
 {
-  "versionCode": 10,
-  "versionName": "0.8.0",
-  "notes": "Import points from anywhere on the device. File > Import opens the system file picker, works out the separator, header and field order, and shows you the rows as it read them before anything is stored. Northing and easting are told apart by magnitude, not by trusting the column order.",
-  "androidUrl": "https://github.com/Medoh97/SurvDroid-releases/releases/download/v0.8.0/SurvDroid-0.8.0-phone.apk",
+  "versionCode": 11,
+  "versionName": "0.8.1",
+  "notes": "The job that was open is the job that opens - the collector no longer comes back to an empty screen after the tablet locks or the app is killed. Staking a point from the map carries that point into stakeout instead of asking for the number again.",
+  "androidUrl": "https://github.com/Medoh97/SurvDroid-releases/releases/download/v0.8.1/SurvDroid-0.8.1-phone.apk",
   "windowsUrl": "",
   "mandatory": false
 }
