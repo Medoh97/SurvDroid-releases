@@ -1,8 +1,8 @@
 {
-  "versionCode": 9,
-  "versionName": "0.7.0",
-  "notes": "COGO on the map: inverse, measure, offset, store point, linework, stake and delete, all by picking off the drawing. Picks snap to stored points.",
-  "androidUrl": "https://github.com/Medoh97/SurvDroid-releases/releases/download/v0.7.0/SurvDroid-0.7.0-phone.apk",
+  "versionCode": 10,
+  "versionName": "0.8.0",
+  "notes": "Import points from anywhere on the device. File > Import opens the system file picker, works out the separator, header and field order, and shows you the rows as it read them before anything is stored. Northing and easting are told apart by magnitude, not by trusting the column order.",
+  "androidUrl": "https://github.com/Medoh97/SurvDroid-releases/releases/download/v0.8.0/SurvDroid-0.8.0-phone.apk",
   "windowsUrl": "",
   "mandatory": false
 }
