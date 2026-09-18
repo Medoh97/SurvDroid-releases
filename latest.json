@@ -1,8 +1,8 @@
 {
-  "versionCode": 12,
-  "versionName": "0.9.0",
-  "notes": "The Windows build for the RT4 is here, running the same screens as the phone from the same shared code - a command added to the menu appears on both. On Windows a receiver is the COM port a Bluetooth pairing becomes, and jobs live in your home folder.",
-  "androidUrl": "https://github.com/Medoh97/SurvDroid-releases/releases/download/v0.9.0/SurvDroid-0.9.0-phone.apk",
-  "windowsUrl": "https://github.com/Medoh97/SurvDroid-releases/releases/download/v0.9.0/SurvDroid-0.9.0-windows.zip",
+  "versionCode": 13,
+  "versionName": "0.9.1",
+  "notes": "The map's COGO commands are on a visible toolbar now - inverse, measure, offset, store point, line, stake, delete - instead of hidden behind the tool name. Background imagery starts on, and no longer paints over the toolbar.",
+  "androidUrl": "https://github.com/Medoh97/SurvDroid-releases/releases/download/v0.9.1/SurvDroid-0.9.1-phone.apk",
+  "windowsUrl": "https://github.com/Medoh97/SurvDroid-releases/releases/download/v0.9.1/SurvDroid-0.9.1-windows.zip",
   "mandatory": false
 }
